@@ -1,0 +1,6 @@
+*.zip
+GCNN
+Project
+.ipynb_checkpoints
+data
+results
